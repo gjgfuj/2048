@@ -68,17 +68,23 @@
           <div class="grid-cell"></div>
           <div class="grid-cell"></div>
           <div class="grid-cell"></div>
-        </div>
-        <div class="grid-row">
-          <div class="grid-cell"></div>
-          <div class="grid-cell"></div>
-          <div class="grid-cell"></div>
           <div class="grid-cell"></div>
         </div>
         <div class="grid-row">
           <div class="grid-cell"></div>
           <div class="grid-cell"></div>
           <div class="grid-cell"></div>
+<<<<<<< .merge_file_dpLggr
+=======
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+>>>>>>> .merge_file_Ebigjr
+        </div>
+        <div class="grid-row">
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
           <div class="grid-cell"></div>
         </div>
         <div class="grid-row">
@@ -86,8 +92,10 @@
           <div class="grid-cell"></div>
           <div class="grid-cell"></div>
           <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
         </div>
         <div class="grid-row">
+          <div class="grid-cell"></div>
           <div class="grid-cell"></div>
           <div class="grid-cell"></div>
           <div class="grid-cell"></div>
